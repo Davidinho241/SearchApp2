@@ -116,6 +116,10 @@
         "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\src\\main\\res\\layout\\activity_navigation_.xml"
     },
     {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fogot_password.xml",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\src\\main\\res\\layout\\activity_fogot_password.xml"
+    },
+    {
         "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
         "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.1\\res\\layout\\cast_intro_overlay.xml"
     },
@@ -290,6 +294,10 @@
     {
         "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_code_sender.xml",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\src\\main\\res\\layout\\activity_code_sender.xml"
     },
     {
         "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\SearchApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",

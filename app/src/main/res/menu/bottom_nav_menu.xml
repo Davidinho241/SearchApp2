@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:title="A Pied"
+            android:id="@+id/person"
+            android:icon="@drawable/person" />
+        <item android:id="@+id/urbain"
+            android:title="Urbain"
+            android:icon="@drawable/car" />
+        <item android:id="@+id/intercity"
+            android:title="Inter-city"
+            android:icon="@drawable/intercity" />
+        <item android:id="@+id/intl"
+            android:title="Internationnal"
+            android:icon="@drawable/internation" />
+</menu>

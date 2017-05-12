@@ -21,39 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.2.1_a5425557103e8b6be3c85198d71722539cdf2295\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.0_b76bfb512dec8054e3da107e740249bbbd1aba73\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.2.1_d2fab23f6d0654d77b0f193d77ee4863274f859c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_c81596add558242d31a4f3f6d442b0ad6259b980\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,39 +39,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_5087dd492d45f045cca9d3d65dc9469465cc8b1f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_2e27bffed496f5f07f72b335256b9252d087be91\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="734e80dffea7bd76c18ae256822a124c30d85850">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_b4350b86e04ea48f10dbbe5ca01213255a1e2a7d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6c74dab42788b458960618238f338d324b6f0656">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.1_906092d64cd49ab785c38cb054deaada1765fdd9\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,30 +84,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.1_98e9e14d94b8b6de69506c20c6edd284066715f9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_22d89aad756af9d2d30a62728b2676bfe86ffc9f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.1_8348a7d52534890d6eb2b8cb3c463088a058afa5\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -192,75 +120,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_299431567193b1fac5d54fd2841fb4bb93e29e3a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.1_be8a1b69c963d9f6f3b3d9cd2e4ac75e9c0a40b9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.2.1_3a1e8f75c7619d8b3e573cf16b85e8b52423d489\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.2.1_793e80c15717724c876bc82280fd1bf424d90bca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ef1c079ce2d8691bb5a756f27afc0d4b71411711">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f04e8553f45fa9ec88982c132b7b9689697901f4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="12032271e6be735e811ad529cb08ff066c381640">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.1_3d18bfa117a0f54ea4cdaeb22d020efdbf2d5caa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e1ff50d62fc64ced67671cf51122362587396cd5">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b05e4dc318448e1a9b3bffcce11486b972c63736\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.1_16a6e5c04a5b7a95051389db24f599cb59012562\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -273,30 +138,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cce5792fa30ee8520620f298bf920309423b180f">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.2.1_ee2ab158187415957f6c616b0bab3be7ba82b7e2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.1_fd90551b7b4dc9379ece60c6a069b671bb165a60\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.2.1_4c77cf54629714cd5eb14f04930bce77cfe6062a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -309,75 +156,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.0_2dd5e4b8643c6d12d3d2e11765c0ebb383d08826\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.1_eb27dcbef9a748ba26323f4842ebef474d1f933b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4e684205744f814a73b7752545e0661330415c9e">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.2.1_fd1deb7eda1c257c1676607a92b4fecab13b237a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.2.1_fb9e551d683f9aee5864babe2feed38023222fa0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="518768f3200963fbfec652f498da2c9d39245234">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_3ee56ff9ff5b84aa2fda5b99d8149b06d4933f62\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.2.1_c1b09aa9f865bec9251605e870784d2dde2967f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.2.1_43618d6fd1cf46123e77ee4ff35c378391e81adf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44098e691b36776973374ac03afe0225b17f8a74">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.1_8d899dadb5073890f583ab0285ef4c4fc1e4c3d7\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -435,15 +219,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.1_51853d995374c0ad4a04d5bcadb227df729821e9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -453,39 +228,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.3.1_025b94a16042d537de614c02277ebecc1690ed76\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.2.1_7a4184cd30968450079e2a5d36df656eb890d0c2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.1_dbd4686f3ed5cd882847c3e3ca63cffcd5208cf8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.1_e884287b61fde6837cdfe45a54369b2ddc675fe0\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -507,21 +255,300 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.2.1_af71f1d89409f514d4c09c7306035a5bd9f7a643\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_5097b2be129e12e7fe6f92341b5303ad396bd310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.2.1_d41bec8e98d52e45db77037f869491ac1c9d45b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_39ab36538ea3ac6d75507c5ea103e825dccb5b66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.1_6d287b65e520dd0498943baf2e09d2d014fdc400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.2.1_a5425557103e8b6be3c85198d71722539cdf2295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.0_b76bfb512dec8054e3da107e740249bbbd1aba73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_c81596add558242d31a4f3f6d442b0ad6259b980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_5087dd492d45f045cca9d3d65dc9469465cc8b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_2e27bffed496f5f07f72b335256b9252d087be91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.1_906092d64cd49ab785c38cb054deaada1765fdd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.1_98e9e14d94b8b6de69506c20c6edd284066715f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.1_8348a7d52534890d6eb2b8cb3c463088a058afa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_299431567193b1fac5d54fd2841fb4bb93e29e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.2.1_3a1e8f75c7619d8b3e573cf16b85e8b52423d489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.2.1_793e80c15717724c876bc82280fd1bf424d90bca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4dde37b59229e4acca913445b75b63d7f33582ad">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f04e8553f45fa9ec88982c132b7b9689697901f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.1_3d18bfa117a0f54ea4cdaeb22d020efdbf2d5caa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf96d172f3c65781bbeb4f027c3fe112abc963a1">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b05e4dc318448e1a9b3bffcce11486b972c63736\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.1_16a6e5c04a5b7a95051389db24f599cb59012562\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.2.1_ee2ab158187415957f6c616b0bab3be7ba82b7e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.2.1_4c77cf54629714cd5eb14f04930bce77cfe6062a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.0_2dd5e4b8643c6d12d3d2e11765c0ebb383d08826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.1_eb27dcbef9a748ba26323f4842ebef474d1f933b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.2.1_fb9e551d683f9aee5864babe2feed38023222fa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_3ee56ff9ff5b84aa2fda5b99d8149b06d4933f62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.2.1_c1b09aa9f865bec9251605e870784d2dde2967f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.2.1_43618d6fd1cf46123e77ee4ff35c378391e81adf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.1_8d899dadb5073890f583ab0285ef4c4fc1e4c3d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.1_51853d995374c0ad4a04d5bcadb227df729821e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.3.1_025b94a16042d537de614c02277ebecc1690ed76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.2.1_7a4184cd30968450079e2a5d36df656eb890d0c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.1_e884287b61fde6837cdfe45a54369b2ddc675fe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.2.1_af71f1d89409f514d4c09c7306035a5bd9f7a643\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -585,33 +612,6 @@
         revision="25.0.2"
         sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
         <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.2.1_d5ba7a80499c0a46bd025f19649f5af6af9e7ee5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.2.1_d41bec8e98d52e45db77037f869491ac1c9d45b6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_39ab36538ea3ac6d75507c5ea103e825dccb5b66\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
-        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.1_6d287b65e520dd0498943baf2e09d2d014fdc400\classes.dex" />
     </item>
     <item
         is-multidex="true"
