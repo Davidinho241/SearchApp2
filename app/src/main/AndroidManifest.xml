@@ -71,7 +71,8 @@
         <activity android:name=".SignupActivity" />
         <activity android:name=".Signup2Activity" />
         <activity android:name=".FogotPassword" />
-        <activity android:name=".CodeSender"></activity>
+        <activity android:name=".CodeSender" />
+        <activity android:name=".CodeSender2"></activity>
     </application>
 
 </manifest>

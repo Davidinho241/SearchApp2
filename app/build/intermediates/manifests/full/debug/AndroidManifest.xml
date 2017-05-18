@@ -92,6 +92,7 @@
         <activity android:name="com.letsrealize.develop.searchapp.Signup2Activity" />
         <activity android:name="com.letsrealize.develop.searchapp.FogotPassword" />
         <activity android:name="com.letsrealize.develop.searchapp.CodeSender" />
+        <activity android:name="com.letsrealize.develop.searchapp.CodeSender2" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

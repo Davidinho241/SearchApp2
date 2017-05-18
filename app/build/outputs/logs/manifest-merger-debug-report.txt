@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:2:1-77:12
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:4:5-48
 		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml
@@ -68,7 +68,7 @@ ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\Android
 	android:name
 		ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:20:22-76
 application
-ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:22:5-75:19
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:22:5-76:19
 MERGED from [com.android.support:design:25.3.0] C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.0] C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\AndroidManifest.xml:26:5-20
 MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\10.2.1\AndroidManifest.xml:5:5-20
@@ -209,9 +209,13 @@ ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\Android
 	android:name
 		ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:73:19-48
 activity#com.letsrealize.develop.searchapp.CodeSender
-ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:74:9-57
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:74:9-48
 	android:name
 		ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:74:19-45
+activity#com.letsrealize.develop.searchapp.CodeSender2
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:75:9-58
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml:75:19-46
 uses-sdk
 INJECTED from C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.0] C:\Users\LENOVO\AndroidStudioProjects\SearchApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\AndroidManifest.xml:21:5-23:62

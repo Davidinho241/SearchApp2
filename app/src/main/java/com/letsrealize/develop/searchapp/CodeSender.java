@@ -1,5 +1,6 @@
 package com.letsrealize.develop.searchapp;
 
+import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -20,8 +21,10 @@ public class CodeSender extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
+
                 Intent but1 = new Intent(CodeSender.this, FogotPassword.class);
                 startActivity(but1);
+                
             }
         });
 

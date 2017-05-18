@@ -53,7 +53,7 @@
         android:layout_gravity="bottom"
         app:menu="@menu/bottom_nav_menu"
         android:background="@color/white"
-        android:paddingStart="30dp"
+        android:paddingStart="50dp"
         android:paddingEnd="50dp"
         android:layout_alignParentBottom="true"
         tools:context="com.letsrealize.develop.searchapp.Navigation_Activity"/>

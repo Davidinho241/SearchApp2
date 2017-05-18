@@ -21,7 +21,7 @@ public class Signup2Activity extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
-                Intent but1 = new Intent(Signup2Activity.this, CodeSender.class);
+                Intent but1 = new Intent(Signup2Activity.this, CodeSender2.class);
                 startActivity(but1);
             }
         });
